@@ -1,5 +1,7 @@
 ---
 description: '2018'
+cover: .gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
+coverY: 0
 ---
 
 # 10th Asia-Pacific Conference of ISTVS
