@@ -1,4 +1,10 @@
-# About
+---
+description: >-
+  Joint 10th Asia-Pacific Conference of ISTVS and 39th Annual Meeting of
+  Japanese Society for Terramechanics
+---
+
+# About Kyoto
 
 #### **About Kyoto**
 

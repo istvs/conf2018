@@ -1,10 +1,10 @@
 # Table of contents
 
 * [10th Asia-Pacific Conference of ISTVS](README.md)
-* [About](about.md)
-* [Registration](registration.md)
-* [Committees](committees.md)
-* [Visas](visas.md)
+* [Calendar](calendar.md)
+* [Venue](venue.md)
 * [Presentation](presentation.md)
-* [Home](home/README.md)
-  * [Calendar](home/calendar.md)
+* [Registration](registration.md)
+* [About Kyoto](about-kyoto.md)
+* [Committees](committees.md)
+* [Visa Info](visa-info.md)
