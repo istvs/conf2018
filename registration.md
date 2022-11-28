@@ -32,7 +32,7 @@ _**Please note that the registration will be closed on May 31, 2018**_**,** for 
 
 _Detailed information of registration fee here:_
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (7).png>)
 
 #### Cancellation Policy
 

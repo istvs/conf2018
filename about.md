@@ -10,15 +10,15 @@ July is unfortunately hot and humid, with highest temperature of 31 deg C (88 de
 
 ![](<.gitbook/assets/image (8).png>)
 
-![](<.gitbook/assets/image (7).png>)
+![](<.gitbook/assets/image (7) (1).png>)
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (1).png>)
 
 The month of July is the period of Gion Festival, which originated as a prayer meeting at Yasaka Shrine for health in 860s. The highlight of this festival is the parade of Yama and Hoko on July 17 and on July 24. It is noted that the Yama and Hoko of Gion Festival is one of Intangible Cultural Heritage of Japan by UNESCO inscribed in 2016. During the conference period, we can see the construction of Yama and Hoko in traditional style without using nails, and they are displayed beside the streets during the conference period. So, stay longer in Kyoto, and experience the artistic atmosphere of decorated Yama and Hoko on July 17!
 
-![](<.gitbook/assets/image (3).png>)![](<.gitbook/assets/image (5).png>)
+![](<.gitbook/assets/image (3) (1).png>)![](<.gitbook/assets/image (5).png>)
 
-![](<.gitbook/assets/image (9).png>)
+![](<.gitbook/assets/image (9) (1).png>)
 
 * [Gion Festival](https://www.kyokanko.or.jp/gion/index.html) (in Japanese; photos can be enjoyed.)
 * [Parade 2017](https://youtu.be/dixlSttBxsE) (YouTube)
@@ -40,7 +40,7 @@ If you plan to arrive in Japan at New Tokyo International Airport, or Narita Air
 
 ![](<.gitbook/assets/image (6).png>)
 
-![](<.gitbook/assets/image (4).png>)
+![](<.gitbook/assets/image (4) (1).png>)
 
 #### Travel Information
 

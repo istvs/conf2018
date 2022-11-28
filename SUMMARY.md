@@ -6,3 +6,5 @@
 * [Committees](committees.md)
 * [Visas](visas.md)
 * [Presentation](presentation.md)
+* [Home](home/README.md)
+  * [Calendar](home/calendar.md)
