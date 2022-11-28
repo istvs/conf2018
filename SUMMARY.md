@@ -4,3 +4,4 @@
 * [About](about.md)
 * [Registration](registration.md)
 * [Committees](committees.md)
+* [Visas](visas.md)
