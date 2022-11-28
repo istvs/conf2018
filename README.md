@@ -30,7 +30,7 @@ This program is supported by a subsidy from Kyoto City and the Kyoto Convention 
 
 
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (9).png>)
 
 This conference is partly supported by Rent All Scholarship Foundation.
 
@@ -42,7 +42,7 @@ This conference is partly supported by SAKAI HEAVY INDUSTRIES, LTD.
 
 #### Company’s Exhibition
 
-![](<.gitbook/assets/image (9).png>)
+![](<.gitbook/assets/image (9) (1).png>)
 
 Tec Gihan Co., Ltd.&#x20;
 
@@ -76,6 +76,6 @@ If you have any questions about the conference, please contact to us at [office@
 
 
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (1).png>)
 
 [Kyoto Travel Guide (in Japanese)](https://kanko.city.kyoto.lg.jp)

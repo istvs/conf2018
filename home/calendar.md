@@ -2,7 +2,7 @@
 description: >-
   Joint 10th Asia-Pacific Conference of ISTVS and 39th Annual Meeting of
   Japanese Society for Terramechanics
-cover: .gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
+cover: ../.gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
 coverY: 0
 ---
 
