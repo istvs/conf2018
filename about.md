@@ -6,19 +6,19 @@ Kyoto was the capital of Japan from 794 to 1868. In Japan, the capital implies t
 
 July is unfortunately hot and humid, with highest temperature of 31 deg C (88 deg F) and lowest of 23 deg C (73 deg F) on average. But please do not worry about it. We are in the middle of a governmental campaign of smart business wear without jackets and ties during the conference period. Thus, we recommend you to attend our conference with casual wear.
 
+![](<.gitbook/assets/image (2).png>)
+
+![](<.gitbook/assets/image (8).png>)
+
+![](<.gitbook/assets/image (7).png>)
+
 ![](<.gitbook/assets/image (1).png>)
-
-![](<.gitbook/assets/image (4).png>)
-
-![](.gitbook/assets/image.png)
-
-![](<.gitbook/assets/image (6).png>)
 
 The month of July is the period of Gion Festival, which originated as a prayer meeting at Yasaka Shrine for health in 860s. The highlight of this festival is the parade of Yama and Hoko on July 17 and on July 24. It is noted that the Yama and Hoko of Gion Festival is one of Intangible Cultural Heritage of Japan by UNESCO inscribed in 2016. During the conference period, we can see the construction of Yama and Hoko in traditional style without using nails, and they are displayed beside the streets during the conference period. So, stay longer in Kyoto, and experience the artistic atmosphere of decorated Yama and Hoko on July 17!
 
-![](<.gitbook/assets/image (7).png>)![](<.gitbook/assets/image (5).png>)
+![](<.gitbook/assets/image (3).png>)![](<.gitbook/assets/image (5).png>)
 
-![](<.gitbook/assets/image (8).png>)
+![](<.gitbook/assets/image (9).png>)
 
 * [Gion Festival](https://www.kyokanko.or.jp/gion/index.html) (in Japanese; photos can be enjoyed.)
 * [Parade 2017](https://youtu.be/dixlSttBxsE) (YouTube)
@@ -38,9 +38,9 @@ If you plan to arrive in Japan at New Tokyo International Airport, or Narita Air
 
 * [Airport Limousine Bus](http://www.okkbus.co.jp/en/index.html)
 
-![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (6).png>)
 
-![](<.gitbook/assets/image (2).png>)
+![](<.gitbook/assets/image (4).png>)
 
 #### Travel Information
 
