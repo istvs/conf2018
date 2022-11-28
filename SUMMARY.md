@@ -1,7 +1,13 @@
 # Table of contents
 
 * [10th Asia-Pacific Conference of ISTVS](README.md)
-* [Calendar](home/calendar.md)
+  * [08/10/2018](10th-asia-pacific-conference-of-istvs/08-10-2018/README.md)
+    * [Group photos](10th-asia-pacific-conference-of-istvs/08-10-2018/group-photos.md)
+  * [06/29/2018](10th-asia-pacific-conference-of-istvs/06-29-2018.md)
+  * [06/28/2018](10th-asia-pacific-conference-of-istvs/06-28-2018.md)
+  * [06/27/2018](10th-asia-pacific-conference-of-istvs/06-27-2018.md)
+  * [06/26/2018](10th-asia-pacific-conference-of-istvs/06-26-2018.md)
+* [Conference](conference.md)
 * [Venue](venue.md)
 * [Submission](submission.md)
 * [Presentation](presentation.md)

@@ -58,7 +58,7 @@ Official guide for traveling in Japan is [here](https://www.jnto.go.jp/eng/).  C
 
 Kyoto is very famous for sightseeing. Total number of domestic visitors to Kyoto is not so increased, but visitors from foreign countries are increasing these days. Thus, there might be a problem of availability of rooms in economical hotels. Please consult with a travel agent at your earliest convenience.
 
-The conference office keeps limited number of twin rooms with discount rate during the conference period at the conference hotel.
+The conference office keeps limited number of twin rooms with discount rate during the conference period at the [conference hotel](venue.md).
 
 #### Useful Information
 

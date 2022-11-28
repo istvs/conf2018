@@ -18,9 +18,11 @@ And now, we are glad to announce the 10th Asia-Pacific Conference of ISTVS 2018 
 
 This Asia-Pacific Conference of ISTVS will jointly be held with The 39th Annual Meeting of The Japanese Society for Terramechanics. We expect the conference will become a good opportunity for foreign and domestic researchers, engineers, or students who are interested in terramechanics, to exchange views or ideas on recent development in terrain-vehicle systems.
 
-* **Calendar**
-* **Conference Venue**
-* **Download of Conference Flyer** \[update]
+* ****[**Calendar**](conference.md)****
+* ****[**Conference Venue**](venue.md)****
+* **Download of Conference Flyer** \[update]:
+
+{% file src=".gitbook/assets/flyer_update.pdf" %}
 
 #### Conference Sponsors
 
