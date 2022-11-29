@@ -60,4 +60,12 @@ Not only oral session but also poster session will be available in the conferenc
 
 Best papers will be selected from all full papers submitted to the conference.  A full paper with no registration record will be excluded from our conference proceedings and from the selection of best conference papers.
 
-![](<.gitbook/assets/image (1).png>)![](.gitbook/assets/image.png)
+<div>
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+</div>
