@@ -1,5 +1,5 @@
 # Group photos
 
-This content is password protected. To view it please enter your password below:
+~~This content is password protected. To view it please enter your password below:~~
 
-Password: &#x20;
+~~Password:~~ &#x20;

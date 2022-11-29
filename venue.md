@@ -27,3 +27,5 @@ Phone: +81-75-661-7111; FAX: +81-75-661-7135\
 #### Conference Hotel Reservation
 
 The conference office keeps limited numbers of twin rooms with special discount rate on a first-come-first-served basis during the conference period.  After making your registration, the gateway page for the hotel reservation will appear on the web.
+
+<figure><img src=".gitbook/assets/archive_Venue.png" alt=""><figcaption></figcaption></figure>

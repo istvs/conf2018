@@ -48,3 +48,5 @@ Prof. Tateyama, Kazuyoshi (Ritsumeikan University; _Program Committee Chairman_)
 Dr. Tsukimoto, Yukinori (Sakai Heavy Industries Ltd.)\
 Prof. Yamakawa, Junya (National Defense Academy)\
 Dr. Yokoyama, Takaaki (Ritsumeikan University; _Secretary, Program Committee_)
+
+<figure><img src=".gitbook/assets/archive_Committees.png" alt=""><figcaption></figcaption></figure>

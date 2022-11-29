@@ -63,3 +63,5 @@ The conference office keeps limited number of twin rooms with discount rate duri
 #### Useful Information
 
 Electricity in Japan is AC 100V, whose frequency is 60Hz in Kyoto.  The plug is Type A, which is the same as that used in USA.  In general, you may drink tap water in Japan.
+
+<figure><img src=".gitbook/assets/archive_About Kyoto.png" alt=""><figcaption></figcaption></figure>

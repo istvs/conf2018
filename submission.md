@@ -69,3 +69,5 @@ Best papers will be selected from all full papers submitted to the conference.  
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+<figure><img src=".gitbook/assets/archive_Submission.png" alt=""><figcaption></figcaption></figure>

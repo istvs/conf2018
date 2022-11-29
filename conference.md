@@ -45,3 +45,5 @@ Conference office will be open at the Room UJI, where the registration will be o
 During the conference days on July 11 and on July 13, a licensed guide who can speak English will be present at the conference reception desk. For those who are interested in guided sightseeing in Kyoto, please gather after Keynote Speech around the conference reception desk on July 11.
 
 _Please note that the accompanying person’s registration fee does not include sightseeing expenses for July 11 and 13 at all.  All the expenses for sightseeing on July 11 and July 13 should be paid by the participants._
+
+<figure><img src=".gitbook/assets/archive_Conference.png" alt=""><figcaption></figcaption></figure>

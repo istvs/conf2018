@@ -34,6 +34,8 @@ _For members of organizing committee and program committee: please evaluate each
 
 Poster session is on Friday, July 13, with a core presentation time at 13:40-14:40. Authors should post their posters on the panel prepared at the banquet lobby after 9:00 and before lunch time on July 13. Use this template for your poster preparation.
 
+{% file src=".gitbook/assets/poster_template_APISTVS_2018.potx" %}
+
 **Guidelines of Poster Presentation:**
 
 1. Prepare your poster in English with the paper size of A0 (841 mm x 1189 mm).
@@ -45,3 +47,5 @@ Poster session is on Friday, July 13, with a core presentation time at 13:40-14:
 7. Posters must be removed during coffee break between 16:00 and 16:30 on July 13. Note that the conference office will dispose posters after 16:30 because of the schedule of clean-up of poster panels.
 
 _For members of organizing committee and program committee: please evaluate each poster presentation except for No. 26 and except for those by your group in terms of purpose of study, original contribution, and findings._
+
+<figure><img src=".gitbook/assets/archive_Presentation.png" alt=""><figcaption></figcaption></figure>

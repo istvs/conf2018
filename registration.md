@@ -49,3 +49,5 @@ The 90% of registration fee will be refunded when the cancellation is reported t
 #### Entry of Registration Process (Closed)
 
 We closed the registration.  Thank you.
+
+<figure><img src=".gitbook/assets/archive_Registration.png" alt=""><figcaption></figcaption></figure>

@@ -81,3 +81,5 @@ If you have any questions about the conference, please contact to us at [office@
 ![](<.gitbook/assets/image (1) (1).png>)
 
 [Kyoto Travel Guide (in Japanese)](https://kanko.city.kyoto.lg.jp)
+
+<figure><img src=".gitbook/assets/archive_Home.png" alt=""><figcaption></figcaption></figure>
