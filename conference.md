@@ -2,11 +2,11 @@
 description: >-
   Joint 10th Asia-Pacific Conference of ISTVS and 39th Annual Meeting of
   Japanese Society for Terramechanics
-cover: ../.gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
+cover: .gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
 coverY: 0
 ---
 
-# Calendar
+# Conference
 
 #### **Conference Calendar**
 
@@ -18,23 +18,27 @@ coverY: 0
 
 #### Conference Program
 
-Our conference program (as of 06/29) can now be downloaded here. At the conference, a printed program with paper abstracts will be distributed for all participants. If you have any questions on the program, please let us know.
+Our conference program (as of 06/29) can now be downloaded here:
 
-&#x20;
+{% file src=".gitbook/assets/program0629.pdf" %}
+
+At the conference, a printed program with paper abstracts will be distributed for all participants. If you have any questions on the program, please let us know.
 
 #### Conference Rooms
 
-The view of conference rooms at New Miyako Hotel is now available here. Conference office will be open at the Room UJI, where the registration will be open on 15:00 of July 10, 2018.
+The view of conference rooms at New Miyako Hotel is now available here:
 
-&#x20;
+{% file src=".gitbook/assets/B1floor.pdf" %}
+
+Conference office will be open at the Room UJI, where the registration will be open on 15:00 of July 10, 2018.
 
 #### Technical Visit & Sightseeing
 
-Detailed information can be found here. **The meeting time on July 12 is 8:00am** at the lobby of New Miyako Hotel.
+**The meeting time on July 12 is 8:00am** at the lobby of New Miyako Hotel. Detailed information can be found here:
+
+{% file src=".gitbook/assets/TechVisitView.pdf" %}
 
 \[For registered participants] Please let us know if you cannot attend this event as soon as possible.
-
-&#x20;
 
 #### Information on Accompanying Person’s Program
 
