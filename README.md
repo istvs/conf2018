@@ -5,6 +5,10 @@ coverY: 0
 
 # 10th Asia-Pacific Conference of ISTVS
 
+{% hint style="success" %}
+This is a conference site archive.&#x20;
+{% endhint %}
+
 **Joint 10th Asia-Pacific Conference of ISTVS**\
 **and 39th Annual Meeting of Japanese Society for Terramechanics**
 
